@@ -1,0 +1,83 @@
+2021-03-27 13:00:35,131 Training for 20000 epochs
+2021-04-02 20:19:53,313 Training for 20000 epochs
+2021-04-02 20:25:39,909 Training for 20000 epochs
+2021-04-02 20:25:55,741 Epoch 0/20000      Iteration 0/1    loss: 1.0362341403961182    Time: 15.832 seconds/iteration
+2021-04-02 20:25:56,405 Save the model after epoch 0
+2021-04-02 20:25:56,430 
+============================================================================================================================
+Epoch 0/20000     Train loss: 1.0362341403961182        time: 0:00:16.521382
+============================================================================================================================
+
+2021-04-02 20:26:12,053 Epoch 1/20000      Iteration 0/1    loss: 1.040865421295166    Time: 15.615 seconds/iteration
+2021-04-02 20:26:12,652 
+============================================================================================================================
+Epoch 1/20000     Train loss: 1.040865421295166        time: 0:00:16.214633
+============================================================================================================================
+
+2021-04-02 20:26:27,778 Epoch 2/20000      Iteration 0/1    loss: 1.0354571342468262    Time: 15.123 seconds/iteration
+2021-04-02 20:26:28,405 
+============================================================================================================================
+Epoch 2/20000     Train loss: 1.0354571342468262        time: 0:00:15.750371
+============================================================================================================================
+
+2021-04-02 20:26:43,802 Epoch 3/20000      Iteration 0/1    loss: 1.045737385749817    Time: 15.394 seconds/iteration
+2021-04-02 20:26:44,452 
+============================================================================================================================
+Epoch 3/20000     Train loss: 1.045737385749817        time: 0:00:16.043621
+============================================================================================================================
+
+2021-04-17 10:38:10,950 Training for 20000 epochs
+2021-04-25 11:47:40,624 Load the model from: C:\Users\Kapil\Downloads\Project\Example Project 1\exps\models\epoch_40000.pt
+2021-04-25 11:47:40,652 AnomalyDetector(
+  (fc1): Linear(in_features=4096, out_features=512, bias=True)
+  (relu1): ReLU()
+  (dropout1): Dropout(p=0.6, inplace=False)
+  (fc2): Linear(in_features=512, out_features=32, bias=True)
+  (dropout2): Dropout(p=0.6, inplace=False)
+  (fc3): Linear(in_features=32, out_features=1, bias=True)
+  (sig): Sigmoid()
+)
+2021-04-25 11:52:06,163 Load the model from: C:\Users\Kapil\Downloads\Project\Example Project 1\exps\models\epoch_40000.pt
+2021-04-25 11:52:06,168 AnomalyDetector(
+  (fc1): Linear(in_features=4096, out_features=512, bias=True)
+  (relu1): ReLU()
+  (dropout1): Dropout(p=0.6, inplace=False)
+  (fc2): Linear(in_features=512, out_features=32, bias=True)
+  (dropout2): Dropout(p=0.6, inplace=False)
+  (fc3): Linear(in_features=32, out_features=1, bias=True)
+  (sig): Sigmoid()
+)
+2021-04-25 11:52:10,989 Training for 20000 epochs
+2021-04-25 12:19:16,323 Load the model from: C:\Users\Kapil\Downloads\Project\Example Project 1\exps\models\epoch_40000.pt
+2021-04-25 12:19:16,346 AnomalyDetector(
+  (fc1): Linear(in_features=4096, out_features=512, bias=True)
+  (relu1): ReLU()
+  (dropout1): Dropout(p=0.6, inplace=False)
+  (fc2): Linear(in_features=512, out_features=32, bias=True)
+  (dropout2): Dropout(p=0.6, inplace=False)
+  (fc3): Linear(in_features=32, out_features=1, bias=True)
+  (sig): Sigmoid()
+)
+2021-04-25 12:19:20,632 Training for 20000 epochs
+2021-04-25 12:23:00,979 Load the model from: C:\Users\Kapil\Downloads\Project\Example Project 1\exps\models\epoch_0.pt
+2021-04-25 12:23:01,005 AnomalyDetector(
+  (fc1): Linear(in_features=4096, out_features=512, bias=True)
+  (relu1): ReLU()
+  (dropout1): Dropout(p=0.6, inplace=False)
+  (fc2): Linear(in_features=512, out_features=32, bias=True)
+  (dropout2): Dropout(p=0.6, inplace=False)
+  (fc3): Linear(in_features=32, out_features=1, bias=True)
+  (sig): Sigmoid()
+)
+2021-04-25 12:23:03,492 Training for 20000 epochs
+2021-05-05 17:36:35,426 Training for 20000 epochs
+2021-05-05 17:37:32,290 Training for 20000 epochs
+2021-05-05 17:56:44,204 Training for 20000 epochs
+2021-05-05 18:03:08,254 Training for 20000 epochs
+2021-05-05 18:03:57,382 Training for 20000 epochs
+2021-05-05 18:04:14,311 Epoch 1/20000      Iteration 0/1    loss: 1.0471527576446533    Time: 16.927 seconds/iteration
+2021-05-05 18:04:14,928 
+============================================================================================================================
+Epoch 1/20000     Train loss: 1.0471527576446533        time: 0:00:17.543712
+============================================================================================================================
+

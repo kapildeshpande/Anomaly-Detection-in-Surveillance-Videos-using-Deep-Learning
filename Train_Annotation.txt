@@ -1,0 +1,9 @@
+Abuse/Abuse001_x264.mp4 2729 
+Training_Normal_Videos_Anomaly/Normal_Videos001_x264.mp4 544 
+Tampering/Tampering001_x264
+Tampering/Tampering002_x264
+Tampering/Tampering003_x264
+Tampering/Tampering004_x264
+Tampering/Tampering005_x264
+Tampering/Tampering006_x264
+Tampering/Tampering007_x264
